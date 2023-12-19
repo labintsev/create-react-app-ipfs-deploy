@@ -12,16 +12,8 @@ function App() {
         <span className="Big-plus">+</span>
         <img src={reactLogo} className="React-logo" alt="react-logo" />
         <p>
-          React App deployed on IPFS through Fleek.
+          React App deployed on IPFS through Fleek. For Blockchain course purpose. 
         </p>
-        <a
-          className="App-link"
-          href="https://docs.fleek.co"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn More About Fleek!
-        </a>
       </header>
     </div>
   );
